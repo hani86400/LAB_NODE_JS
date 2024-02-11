@@ -2,7 +2,7 @@
 nodeJS Remarks.
 
 
-#### Define module uuid
+#### Define module uuid.
 ```
 import { v4 as uuidv4 }      from 'uuid'; // ES6
 // OR
